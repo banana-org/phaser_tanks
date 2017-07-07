@@ -1,3 +1,12 @@
+<?php 
+
+/*
+ * this file could be a static HTML doc but has been 
+ * made a PHP file for potential future features
+*/ 
+
+?>
+
 <html>
 	<head>
 		<script src="js/phaser.2.6.2.min.js" type="text/javascript"></script>
