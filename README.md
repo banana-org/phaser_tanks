@@ -1,6 +1,6 @@
 # phaser_tanks
 
-This is a basic GameBanana game App which can be installed here:http://gamebanana.com/apps/566
+This is a basic GameBanana game App which can be installed here: http://gamebanana.com/apps/566
 
 The App consists of a Main URL that points to http://banana.org/phaser_tanks/index.php
 
